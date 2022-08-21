@@ -1,0 +1,32 @@
+.button {
+    background-color: yellowgreen;
+    border: solid 2px black;
+    margin: 5px;
+    color:black;
+    font-size: 18px;
+    padding: 10px 10px;
+    text-align: center;
+    display:inline-block;
+    transition-duration: 0.4s;    
+}
+.button:hover{
+    background-color: rgba(255, 0, 255, 0.507);
+    color:black;
+}
+
+a {
+    text-decoration: solid;
+    color: black;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.naglowek {
+    display: block;
+    border: 3px;
+    text-align: center;
+}
+
+.fontfamily {
+    font-family: 'Times New Roman', Times, serif;
+}
